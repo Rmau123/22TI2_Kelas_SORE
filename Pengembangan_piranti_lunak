@@ -1,0 +1,26 @@
+<script>
+function kalkulasi(){
+
+console.log('a1');
+
+var nilai1=parseInt(document.getElementById('in1').value);
+var nilai2=parseInt(document.getElementById('in2').value);
+var nilai3=nilai1/nilai2;
+
+document.getElementById('in3').value=nilai3;
+
+}
+</script>
+
+kolom 1: <input type="text" id="in1">
+<br>
+kolom 2: <input type="text" id="in2">
+<br>
+kolom 3: <input type="text" id="in3">
+<input type="button" id="in2" value="hitung" onclick="kalkulasi()">
+<br>
+<html>
+<head>
+   <title>Validasi Alamat Email</title>
+</head>
+<body>
