@@ -1,6 +1,5 @@
 membuat html source code
-<script>
-function kalkulasi(){
+start awal
 
 console.log('a1');
 
