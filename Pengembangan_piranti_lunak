@@ -1,6 +1,7 @@
 membuat html source code
 start awal
 
+Buat cabang
 console.log('a1');
 
 var nilai1=parseInt(document.getElementById('in1').value);
